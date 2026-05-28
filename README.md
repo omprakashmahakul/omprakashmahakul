@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omprakashmahakul&label=Profile%20views&color=0e75b6&style=flat" alt="omprakashmahakul" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omprakashmahakul" alt="omprakashmahakul" /></a> </p>
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 - 🌱 I’m currently learning **Web Dev, Java With DSA**
 
